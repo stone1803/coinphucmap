@@ -1,7 +1,7 @@
 from fbchat import Client
 from fbchat.models import *
 
-client = Client("ledanghongphuc@gmail.com", "PhucMap")
+client = Client("ledanghongphuc@gmail.com", "")
 
 print("Own id: {}".format(client.uid))
 
